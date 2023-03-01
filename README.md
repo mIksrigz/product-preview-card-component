@@ -17,7 +17,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-product-preview-card-using-css-grid-and-flex-fJzdOSSC-2
 - Live Site URL: https://iksrigz-product-prev-card-component.netlify.app
 
 
