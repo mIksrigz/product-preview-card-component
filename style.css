@@ -63,7 +63,7 @@ p, h1, h2, h3, h4, h5, h6 {
 
 
 body{
-    background: var(--color-accent-dark);
+    background: var(--light-background);
     font-family: var(--font-family-main);
     font-size: var(--main-font-size);
     font-weight: var(--font-weight-normal);
